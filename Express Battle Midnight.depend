@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1511479368 source:d:\coding\express battle midnight\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511481049 source:d:\coding\express battle midnight\econio.c
+	"econio.h"
+
+1511481049 d:\coding\express battle midnight\econio.h
+	<windows.h>
+
+1511481049 source:d:\coding\express_battle_midnight\econio.c
+	"econio.h"
+
+1511481049 d:\coding\express_battle_midnight\econio.h
+	<windows.h>
+
+1512343265 source:d:\coding\express_battle_midnight\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<econio.h>
+	<Play_Functions.h>
+	<List_and_Entities.h>
+	<Menus.h>
+	<File_System.h>
+	<Driving_System.h>
+	<GameState.h>
+	<Map.h>
+
+1511481049 d:\coding\express_battle_midnight\\econio.h
+	<windows.h>
+
+1512341160 source:d:\coding\express_battle_midnight\driving_system.c
+	<stdbool.h>
+	<List_and_Entities.h>
+
+1512341150 d:\coding\express_battle_midnight\\list_and_entities.h
+
+1512342432 source:d:\coding\express_battle_midnight\file_system.c
+	<File_System.h>
+	<stdio.h>
+
+1512342081 d:\coding\express_battle_midnight\\file_system.h
+	<List_and_Entities.h>
+
+1512342432 source:d:\coding\express_battle_midnight\list_and_entities.c
+	<File_System.h>
+	<stdlib.h>
+	<GameState.h>
+
+1512342327 d:\coding\express_battle_midnight\\gamestate.h
+
+1512342641 d:\coding\express_battle_midnight\\play_functions.h
+	<List_and_Entities.h>
+	<Map.h>
+	<stdbool.h>
+
+1512340316 d:\coding\express_battle_midnight\\menus.h
+
+1512340907 d:\coding\express_battle_midnight\\driving_system.h
+
+1512341446 source:d:\coding\express_battle_midnight\menus.c
+	<econio.h>
+	<GameState.h>
+	<File_System.h>
+
+1512343239 d:\coding\express_battle_midnight\\map.h
+
+1512342744 source:d:\coding\express_battle_midnight\play_functions.c
+	<List_and_Entities.h>
+	<stdbool.h>
+	<File_System.h>
+	<Map.h>
+	<stdlib.h>
+	<GameState.h>
+
+1512342616 source:d:\coding\express_battle_midnight\map.c
+	<Play_Functions.h>
+

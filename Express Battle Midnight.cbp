@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Express_Battle_Midnight" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Express Battle Midnight" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="D:/Coding/Express_Battle_Midnight/" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Express Battle Midnight" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Driving_System.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Driving_System.h" />
+		<Unit filename="File_System.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="File_System.h" />
+		<Unit filename="GameState.h" />
+		<Unit filename="List_and_Entities.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="List_and_Entities.h" />
+		<Unit filename="Map.h" />
+		<Unit filename="Menus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Menus.h" />
+		<Unit filename="Play_Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Play_Functions.h" />
+		<Unit filename="econio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="econio.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
